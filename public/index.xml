@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experimental Ponycoptering</title>
+    <link>/</link>
+    <description>Recent content on Experimental Ponycoptering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Apr 2018 14:42:47 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 16 Apr 2018 14:42:47 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>An exploration of ponycopter technology through the medium of interpretive dance and deliberately brutalist design.</description>
+    </item>
+    
+    <item>
+      <title>Testagain</title>
+      <link>/post/testagain/</link>
+      <pubDate>Mon, 09 Apr 2018 17:04:42 +0100</pubDate>
+      
+      <guid>/post/testagain/</guid>
+      <description>This is exciting, isn&amp;rsquo;t it?</description>
+    </item>
+    
+    <item>
+      <title>Testy</title>
+      <link>/post/testy/</link>
+      <pubDate>Mon, 09 Apr 2018 17:00:56 +0100</pubDate>
+      
+      <guid>/post/testy/</guid>
+      <description>A first post</description>
+    </item>
+    
+  </channel>
+</rss>
